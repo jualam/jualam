@@ -18,7 +18,7 @@
 
 - ASL Translator (https://github.com/jualam/Bidirectional-Sign-Language-Translator) - Bidirectional ASL ↔ English translation system combining computer vision (MediaPipe, YOLO) with LLM-based sentence generation, built full-stack with React and Django REST.
 
-- Methane Emission Tracker (https://github.com/jualam/Methane-Tracker-fullstack) - HackWestTX 2024 3rd Place. Visualizes and predicts methane emissions using real satellite data, with an ML prediction layer on top of a React + Django full-stack app.
+- Methane Emission Tracker (https://github.com/jualam/Methane-Tracker-fullstack) - HackWestTX 2024 (3rd Place). Visualizes and predicts methane emissions using real satellite data, with an ML prediction layer on top of a React + Django full-stack app.
 
 - Project Management System (https://github.com/jualam/project-management-system) - A Node.js/Express backend for managing projects, tasks, subtasks, members, and roles, with JWT auth, email verification, file uploads, and MongoDB integration.
 
