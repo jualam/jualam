@@ -46,10 +46,6 @@
 
 - YouTube UI Clone (https://github.com/jualam/YouTube-UI-Clone) - Recreted the YouTube homepage layout.
 
-- 2048-pygame (https://github.com/abrarbari/2048-pygame) - Fun project recreating the 2048 game using Python and Pygame.  
-
-- Huffman-Coding (https://github.com/abbari6566/Huffman-Coding) - This project implements Huffman Coding, a lossless data compression algorithm that assigns variable-length codes to characters based on their frequencies. The goal of this implementation is to compress a string by encoding the characters into binary codes such that the most frequent characters have the shortest codes.
-
 ---
 
 <!--
