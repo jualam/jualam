@@ -8,9 +8,9 @@
 - Previous AI Studio Fellow @Meta (https://github.com/meta1C-btt/language-bias)
 - Actively looking for full-time SWE roles
 - Reach me: [barifaiazabrar@gmail.com](mailto:barifaiazabrar@gmail.com) | [abrar.cs.401@gmail.com](mailto:abrar.cs.401@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/abrar-bari)
 -->
+[LinkedIn](https://www.linkedin.com/in/juhair-alam/)
+
 
 ---
 
