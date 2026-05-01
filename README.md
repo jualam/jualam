@@ -1,6 +1,7 @@
 #  Hello, I am Juhair Alam.
 
 - Senior Computer Science major at Texas Tech University  
+<!--
 - Passionate about Dev, AI, ML
 - Currently an undergraduate Researcher at Dept. of Chemical Engineering at Texas Tech University under Dr Jennifer Gomez Pastora (https://www.depts.ttu.edu/che/research/gomez-pastora-research-group/people.php)
 - Currently an AI/ML Fellow @Break Through Tech, Cornell University
@@ -9,6 +10,7 @@
 - Reach me: [barifaiazabrar@gmail.com](mailto:barifaiazabrar@gmail.com) | [abrar.cs.401@gmail.com](mailto:abrar.cs.401@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/abrar-bari)
+-->
 
 ---
 
@@ -16,9 +18,9 @@
 
 - CINTRACON (https://github.com/jualam/CINTRACON) - A full-stack campus social media and community platform with student profiles, social posts, comments, reactions, note sharing, job opportunities, event management, announcements, admin tools, and an AI assistant.
 
-- ASL Translator (https://github.com/jualam/ASL_Frontend) - Full-stack ASL translator using React and Django REST, with MediaPipe frame extraction, YOLO sign recognition, Ollama sentence generation, and SQLite-backed ASL video lookup.
-
 - Agentic Engineering Workflow (https://github.com/jualam/Agentic_Engineering_Workflow) - A CrewAI-powered project that simulates a small engineering team to turn high-level requirements into a technical design, backend code, demo UI, and unit tests.
+
+- ASL Translator (https://github.com/jualam/ASL_Frontend) - Full-stack ASL translator using React and Django REST, with MediaPipe frame extraction, YOLO sign recognition, Ollama sentence generation, and SQLite-backed ASL video lookup.
 
 - Methane Emission Tracker (https://github.com/YOUR_USERNAME/YOUR_REPO) - HackWestTX 2024 3rd Prize winning full-stack project for visualizing methane emission sites and predicting methane levels using Sentinel-5P satellite imagery, Google Earth Engine, React, Django, and machine learning.
 
@@ -32,17 +34,17 @@
 
 - Movie Booking Platform (https://github.com/jualam/Movie_Booking_System) - A full-stack app for movie theater businesses to manage movies, bookings, tickets, and sales reports.
 
-- Explainable AI for Pneumonia Detection from Chest X-rays (https://github.com/abbari6566/Explainable_AI) - This project builds an end-to-end pipeline for pneumonia detection from chest X-rays using deep learning and explainable AI (XAI).
+- CrewAI Debate System (https://github.com/jualam/CrewAI_Debate_System) - CrewAI-powered multi-agent debate app
 
-- Robust Digit Classification Under Distribution Shift (https://github.com/abbari6566/Making-MNIST-Robust-to-Distribution-Shift) - This project studies how well neural networks handle distribution shift.
+- DQN Stock Trading Agent (https://github.com/jualam/DQN_Stock_Trading_Agent) - A reinforcement learning project that trains a Deep Q-Network agent to make stock trading decisions using historical market data.
 
-- Movie Booking Platform (https://github.com/jualam/Movie_Booking_System) - A full stack app for movie theatre businesses.
+- Concrete Strength Prediction (https://github.com/jualam/Concrete-Strength) - A Random Forest regression ML model for predicting concrete compressive strength
 
-- FindmyFilm (https://abbari6566.github.io/FindMyFilm/) - The project dynamically fetches and displays data from the live TMDB REST API.
+- RainMan Virtual Assistant (https://github.com/jualam/Rainman_virtual_assistant) - A Python voice assistant for everyday tasks and AI-powered queries.
 
-- ToDoLite (https://github.com/abbari6566/todolite) - A simple modern todo app
+- Auto Reply Chatbot (https://github.com/jualam/Auto_Reply_Chatbot) - A fun project that auto-generates and sends AI replies to chat messages.
 
-- Expense Tracker (https://github.com/abbari6566/Expense-Tracker) - This is a simple Expense Tracker application built using Python and Tkinter, which allows users to add, view, delete monthly expenses and automatically calculates and displays the total expenses
+- YouTube UI Clone (https://github.com/jualam/YouTube-UI-Clone) - Recreted the YouTube homepage layout.
 
 - 2048-pygame (https://github.com/abrarbari/2048-pygame) - Fun project recreating the 2048 game using Python and Pygame.  
 
@@ -50,8 +52,10 @@
 
 ---
 
+<!--
 ## Skills
 - Python | Java | JavaScript | Node.JS | React.JS | MongoDB | Express.JS | Next.JS | TypeScript | PostgreSQL | FastAPI | Docker
 - Machine Learning | NLP | Computer Vision | DeepLearning | CNN | YOLO | RAG | AgenticAI
 - Pandas | NumPy | scikit-learn | TensorFlow | OpenCV | PyTorch
 - Git & GitHub | Jupyter | Google Colab | Render | Vercel
+-->
