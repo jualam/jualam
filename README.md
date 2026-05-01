@@ -1,16 +1,12 @@
 #  Hello, I am Juhair Alam.
 
 - Senior Computer Science major at Texas Tech University  
-<!--
-- Passionate about Dev, AI, ML
-- Currently an undergraduate Researcher at Dept. of Chemical Engineering at Texas Tech University under Dr Jennifer Gomez Pastora (https://www.depts.ttu.edu/che/research/gomez-pastora-research-group/people.php)
-- Currently an AI/ML Fellow @Break Through Tech, Cornell University
-- Previous AI Studio Fellow @Meta (https://github.com/meta1C-btt/language-bias)
-- Actively looking for full-time SWE roles
-- Reach me: [barifaiazabrar@gmail.com](mailto:barifaiazabrar@gmail.com) | [abrar.cs.401@gmail.com](mailto:abrar.cs.401@gmail.com)
--->
-[LinkedIn](https://www.linkedin.com/in/juhair-alam/)
+- Passionate about full-stack engineering and building AI-powered end-to-end systems.
+- Engineering Intern @ LLM Vertex (Spring 2026)  
+- AI Research Intern @ NSF REU AI-ReHaB, FIU (Summer 2025)  
+- 1.5+ years of AI/ML/Computer Vision research experience — 2 papers (1 under review at PoPETs 2026, 1 ready for submission)
 
+[LinkedIn](https://www.linkedin.com/in/juhair-alam/)
 
 ---
 
@@ -20,9 +16,9 @@
 
 - Agentic Engineering Workflow (https://github.com/jualam/Agentic_Engineering_Workflow) - A CrewAI-powered project that simulates a small engineering team to turn high-level requirements into a technical design, backend code, demo UI, and unit tests.
 
-- ASL Translator (https://github.com/jualam/ASL_Frontend) - Full-stack ASL translator using React and Django REST, with MediaPipe frame extraction, YOLO sign recognition, Ollama sentence generation, and SQLite-backed ASL video lookup.
+- ASL Translator (https://github.com/jualam/Bidirectional-Sign-Language-Translator) - Full-stack ASL translator using React and Django REST, with MediaPipe frame extraction, YOLO sign recognition, Ollama sentence generation, and SQLite-backed ASL video lookup.
 
-- Methane Emission Tracker (https://github.com/YOUR_USERNAME/YOUR_REPO) - HackWestTX 2024 3rd Prize full-stack project for methane visualization and prediction using satellite data, React, Django, and ML.
+- Methane Emission Tracker (https://github.com/jualam/Methane-Tracker-fullstack) - HackWestTX 2024 3rd Prize full-stack project for methane visualization and prediction using satellite data, React, Django, and ML.
 
 - Project Management System (https://github.com/jualam/project-management-system) - A Node.js/Express backend for managing projects, tasks, subtasks, members, and roles, with JWT auth, email verification, file uploads, and MongoDB integration.
 
@@ -33,19 +29,7 @@
 - Agentic AI Researcher (https://github.com/jualam/Agentic_AI_Researcher) - A multi-agent pipeline for web search, source summarization, report generation, evaluation, and email delivery via Gradio.
 
 - Movie Booking Platform (https://github.com/jualam/Movie_Booking_System) - A full-stack app for movie theater businesses to manage movies, bookings, tickets, and sales reports.
-
-- CrewAI Debate System (https://github.com/jualam/CrewAI_Debate_System) - CrewAI-powered multi-agent debate app
-
-- DQN Stock Trading Agent (https://github.com/jualam/DQN_Stock_Trading_Agent) - A reinforcement learning project that trains a Deep Q-Network agent to make stock trading decisions using historical market data.
-
-- Concrete Strength Prediction (https://github.com/jualam/Concrete-Strength) - A Random Forest regression ML model for predicting concrete compressive strength
-
-- RainMan Virtual Assistant (https://github.com/jualam/Rainman_virtual_assistant) - A Python voice assistant for everyday tasks and AI-powered queries.
-
-- Auto Reply Chatbot (https://github.com/jualam/Auto_Reply_Chatbot) - A fun project that auto-generates and sends AI replies to chat messages.
-
-- YouTube UI Clone (https://github.com/jualam/YouTube-UI-Clone) - Recreted the YouTube homepage layout.
-
+  
 ---
 
 <!--
