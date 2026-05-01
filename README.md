@@ -22,7 +22,7 @@
 
 - ASL Translator (https://github.com/jualam/ASL_Frontend) - Full-stack ASL translator using React and Django REST, with MediaPipe frame extraction, YOLO sign recognition, Ollama sentence generation, and SQLite-backed ASL video lookup.
 
-- Methane Emission Tracker (https://github.com/YOUR_USERNAME/YOUR_REPO) - HackWestTX 2024 3rd Prize winning full-stack project for visualizing methane emission sites and predicting methane levels using Sentinel-5P satellite imagery, Google Earth Engine, React, Django, and machine learning.
+- Methane Emission Tracker (https://github.com/YOUR_USERNAME/YOUR_REPO) - HackWestTX 2024 3rd Prize full-stack project for methane visualization and prediction using satellite data, React, Django, and ML.
 
 - Project Management System (https://github.com/jualam/project-management-system) - A Node.js/Express backend for managing projects, tasks, subtasks, members, and roles, with JWT auth, email verification, file uploads, and MongoDB integration.
 
