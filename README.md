@@ -2,7 +2,7 @@
 
 - Senior Computer Science major at Texas Tech University  
 - Passionate about full-stack engineering and building AI-powered end-to-end systems.
-- Engineering Intern @ LLM Vertex (Spring 2026)  
+- Engineering Intern @ [LLM Vertex](https://www.llmvertex.com/) (Spring 2026) 
 - AI Research Intern @ NSF REU AI-ReHaB, FIU (Summer 2025)  
 - 1.5+ years of AI/ML/Computer Vision research experience — 2 papers (1 under review at PoPETs 2026, 1 ready for submission)
 
