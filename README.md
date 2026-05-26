@@ -5,9 +5,8 @@
 - Engineering Intern @ [LLM Vertex](https://www.llmvertex.com/) (Spring 2026) 
 - AI Research Intern @ NSF REU AI-ReHaB, FIU (Summer 2025)  
 - 1.5+ years of AI/ML/Computer Vision research experience — 2 papers (1 under review at NDSS 2027, 1 ready for submission)
-📫 Reach me at: [juhairfaiaz9641@gmail.com](mailto:juhairfaiaz9641@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/juhair-alam/)
+📫 Reach me: [Email](mailto:juhairfaiaz9641@gmail.com) | [LinkedIn](https://www.linkedin.com/in/juhair-alam/)
 
 ---
 
