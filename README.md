@@ -14,7 +14,7 @@
 
 - CINTRACON (https://github.com/jualam/CINTRACON) - A full-stack campus social media and community platform built for students - features profiles, social posts, comments/reactions, note sharing, job opportunities, event management, announcements, admin tools, and an AI assistant.
 
-- - Bangla-AI (https://www.bangla-ai.com/) - A full-stack multilingual AI platform with domain-specific fine-tuned translation, document chat/RAG, OCR document intelligence, URL/text summarization, and business support tooling, built with React, Django REST, PostgreSQL/pgvector, PaddleOCR, and OpenAI APIs.
+- Bangla-AI (https://www.bangla-ai.com/) - A full-stack multilingual AI platform with domain-specific fine-tuned translation, document chat/RAG, OCR document intelligence, URL/text summarization, and business support tooling, built with React, Django REST, PostgreSQL/pgvector, PaddleOCR, and OpenAI APIs.
 
 - Agentic Engineering Workflow (https://github.com/jualam/Agentic_Engineering_Workflow) - Simulates a full software engineering team using CrewAI agents — takes a high-level requirement and autonomously produces technical design, backend code, a demo UI, and unit tests.
 
