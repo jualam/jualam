@@ -17,7 +17,7 @@
 - Bangla-AI (https://www.bangla-ai.com/) - A full-stack multilingual AI platform with domain-specific fine-tuned translation, document chat/RAG, OCR document intelligence, URL/text summarization, and business support tooling, built with React, Django REST, PostgreSQL/pgvector, PaddleOCR, and OpenAI APIs.
 
 - BroPilot (https://github.com/jualam/BroPilot) - A local-first agentic PR builder built with Next.js, FastAPI, and Gitclaw SDK; orchestrates constrained AI code edits, pytest verification, diff capture, repo memory, safety checks, and PR-ready review summaries.
-- 
+
 - Agentic Engineering Workflow (https://github.com/jualam/Agentic_Engineering_Workflow) - Simulates a full software engineering team using CrewAI agents — takes a high-level requirement and autonomously produces technical design, backend code, a demo UI, and unit tests.
 
 - ASL Translator (https://github.com/jualam/Bidirectional-Sign-Language-Translator) - Bidirectional ASL ↔ English translation system combining computer vision (MediaPipe, YOLO) with LLM-based sentence generation, built full-stack with React and Django REST.
